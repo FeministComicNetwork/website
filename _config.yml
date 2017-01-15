@@ -15,9 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Feministisches Comic Netzwerk
 email: feministische.comics@gmail.com
-description: 
+description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "feministische-comics.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: comicwitches
 
 # Build settings
