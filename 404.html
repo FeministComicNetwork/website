@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+Ups... You might have clicked on a link to our old blog.
+We're currently working on a new blog. So stay tuned.
+
+You're getting redirected to the homepage in 3 seconds.
+
+{% if page.url == "/404.html" %}
+        <meta http-equiv="refresh" content="3; url=/">
+{% endif %}
