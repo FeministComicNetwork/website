@@ -1,6 +1,32 @@
+body {
+  font-family: 'Slabo 27px', serif !important;
+  font-size: 17px !important;
+  background-color: white !important;
+}
+
 .specialParagraph {
   background-color: #FFC724;
   padding: 5%;
   margin-bottom: 5%;
   border-radius: 5%;
+}
+
+.site-header {
+    border-top: none !important;
+}
+
+.site-title {
+  text-decoration: none !important;
+}
+
+@media screen and (min-width: 700px) {
+  .site-title {
+    font-size: 30px !important;
+    font-weight: bold !important;
+    line-height: 3.0 !important;
+    letter-spacing: 1px !important;
+  }
+  .trigger {
+    line-height: 5.5;
+  }
 }
