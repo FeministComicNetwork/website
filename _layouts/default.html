@@ -11,6 +11,11 @@
 
     {% include header.html %}
 
+    {% if page.url == "/" %}
+      <div class="picture-header">
+      </div>
+    {% endif %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}

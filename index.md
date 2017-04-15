@@ -2,8 +2,6 @@
 layout: default
 ---
 
-![Title image shwoing networking comic artist](public/title-image.jpg)
-
 ## Manifesto
 Wir sind echt froh, dass du uns gefunden hast. Das **Feministische Comic Netzwerk** ist ein Gemeinschaftsprojekt von feministischen Comicschaffenden und Fans aller Gender. Momentan befindet sich die Hauptorganistationsgruppe in Berlin. Wir arbeiten deutschlandweit und international. Unser Ziel ist die Förderung von intersektionellem, zugänglichem, inklusiven und einladendem Feminismus in Comics. Dadurch wollen wir Hierarchien einreißen und Vorurteile kritisch hinterfragen. Das Netzwerk konzentriert sich auf gemeinschaftliches Arbeiten, inspirierendes, professionelles Netzwerken und das Sichtbarmachen von feministischen Comics und ihren MacherInnen.
 
