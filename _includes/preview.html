@@ -1,11 +1,11 @@
 <div class="preview-box">
-  <h2>
-    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h2>
   <div class="preview-picture">
     <a href="{{ post.url }}"><img src="{{ post.picture }}"></a><br><br>
   </div>
   <div class="preview-text">
+    <p>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </p>
     <p>{{ post.description }}</p>
     <a class="read-more" href="{{ post.url }}"> Read more!</a>
   </div>
