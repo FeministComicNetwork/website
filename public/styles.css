@@ -12,7 +12,6 @@ a:hover {
   color: #a83a9b !important;
   text-decoration: none !important;
   border-bottom: solid 3px;
-  cursor: pointer !important;
 }
 
 .preview-picture a:hover {
@@ -76,12 +75,13 @@ a:hover {
 /* Tablet and Phone */
 @media screen and (max-width: 740px) {
   .picture-header {
-    background-image: url("../public/cover-large-hover.png");
+    background-image: url("../public/cover-large-mobile.png");
     width: 100%;
     height: 200px;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
+    margin-top: 30px;
   }
 
   .preview-box {
