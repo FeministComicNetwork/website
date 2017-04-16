@@ -218,7 +218,7 @@ a:hover {
     font-size: 18px;
     line-height: 3.5;
     list-style: none;
-    margin-right: 15%;
+    margin-right: 2%;
   }
 
   #site-nav li {
@@ -247,5 +247,9 @@ a:hover {
 
   #logo {
     margin-left: 15%;
+  }
+
+  #site-nav {
+    margin-right: 15%;
   }
 }
