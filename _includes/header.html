@@ -1,0 +1,23 @@
+<div id="header-content" class="header-content">
+  <div class="site-header">
+
+    <h1 id="logo" class="logo-headline"><a href="/">Feminist Comic Network</a></h1>
+
+
+    <!-- # TODO : don't use the .. path because it won't work for posts -->
+    <a id="menu-button" href="#"><img class="menu-burger" src="/public/burger.png"></a>
+
+    <ul id="site-nav">
+    {% for node in site.pages %}
+      {% if node.title %}
+      <a href="{{ node.url | prepend: site.baseurl }}">
+        <li class="page-link{% if node.url == page.url %} current{% endif %}">
+          <span>{{ node.title }}</span>
+        </li>
+      </a>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  </div>
+</div>
