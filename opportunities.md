@@ -5,7 +5,7 @@ title: Opportunities
 
 ## May 2017
 
-- [Chubby Anthologies ](https://chubby-anthology.tumblr.com/) "Spring into Roller Derby" | Deadline for Comic Stories is May 25, 2017
+- [Chubby Anthologies ](https://chubby-anthology.tumblr.com/) "Spring into Roller Derby", Deadline for Comic Stories is May 25, 2017
 
 ## April 2017
 
