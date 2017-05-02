@@ -197,10 +197,11 @@ a:hover {
 
   .post-content {
     display: flex;
+    flex-wrap: wrap;
   }
 
   .preview-box {
-    width: 30%;
+    width: 28%;
     text-align: center;
     margin-right: 5%;
   }
