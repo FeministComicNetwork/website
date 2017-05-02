@@ -8,6 +8,10 @@ a {
   color: #78106d;
 }
 
+h1 {
+  margin-bottom: 0px;
+}
+
 a:hover {
   color: #a83a9b;
   text-decoration: none;
