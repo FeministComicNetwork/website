@@ -13,3 +13,4 @@ As a cultural manager Hennas focus is in events and print media – electronic m
 
 Since 2014 Henna is mainly working as a comic artist and illustrator, but is open for projects in cultural management. If you are interested to talk more or collaborate on a project, don’t hesitate to contact Henna!
 [Link](cargocollective.com/hennarasanen)
+
