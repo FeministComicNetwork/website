@@ -1,3 +1,11 @@
+---
+layout: post
+categories: creators
+permalink: Jess
+title:  "Jess F Holt"
+description: Artist
+picture: public/images/jessFholt.png
+---
 Jessica F. Holt is a young Berlin based artist with a Bachelor's degree in fine arts from Fairleigh Dickinson University.
 
 She grew up between England and the United States, harnessing the cultural advantages of both.
