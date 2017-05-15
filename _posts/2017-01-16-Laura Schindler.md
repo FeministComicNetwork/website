@@ -12,5 +12,6 @@ In summer 2014 she successfully finished an education for graphic and communicat
 
 There, in the creative center of Europe, she is busy working on her career, and soaking up everything creative and new in her environment.
 
-    contact:  schindler.illustration@gmail.com
-[http://www.laura-schindler.com/](http://www.laura-schindler.com/)
+**Contact:**  schindler.illustration@gmail.com
+
+**Website:** [http://www.laura-schindler.com/](http://www.laura-schindler.com/)
