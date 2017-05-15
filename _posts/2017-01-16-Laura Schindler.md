@@ -4,7 +4,7 @@ categories: creators
 permalink: Laura Schindler
 title:  "Laura Schindler"
 description: Comics Creator
-picture: public/images/lauraschindler.jpg
+picture: public/images/lauraschindler.png
 ---
 Laura is a 24 years old graphic designer/ illustrator from Graz, Austria.
 Since she was little, she has been loving to draw and always dreamed to become an artist someday.
