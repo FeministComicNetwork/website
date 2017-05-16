@@ -2,7 +2,7 @@
 layout: post
 categories: creators
 permalink: CaroPodeswa
-title:  "Caor Podeswa"
+title:  "Caro Podeswa"
 description: Comics Creator
 picture: public/images/caropodeswa.png
 ---
