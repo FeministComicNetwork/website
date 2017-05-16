@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: creators
-permalink: Emma von Skov
+permalink: emmavonskov
 title:  "Emma von Skob"
 description: Artist & Illustrator
 picture: public/images/emmavonskov.jpg
