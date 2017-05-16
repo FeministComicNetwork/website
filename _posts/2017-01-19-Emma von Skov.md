@@ -2,7 +2,7 @@
 layout: post
 categories: creators
 permalink: emmavonskov
-title:  "Emma von Skob"
+title:  "Emma von Skov"
 description: Artist & Illustrator
 picture: public/images/emmavonskov.jpg
 ---
