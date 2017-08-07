@@ -62,6 +62,7 @@ a:hover {
 .read-more:hover, .read-more:hover:visited {
   background-color: #f5f5f5;
   color: #a83a9b;
+  padding-bottom: 12px;
 }
 
 .preview-picture img {
