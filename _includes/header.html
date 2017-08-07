@@ -10,11 +10,11 @@
     <ul id="site-nav">
     {% for node in site.pages %}
       {% if node.title %}
-      <a href="{{ node.url | prepend: site.baseurl }}">
-        <li class="page-link{% if node.url == page.url %} current{% endif %}">
+      <li class="page-link{% if node.url == page.url %} current{% endif %}">
+        <a href="{{ node.url | prepend: site.baseurl }}">
           <span>{{ node.title }}</span>
-        </li>
-      </a>
+        </a>
+      </li>
       {% endif %}
     {% endfor %}
     </ul>
