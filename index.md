@@ -3,7 +3,7 @@ layout: default
 ---
 ### Zine Call
 
-[Englisch Version below]
+[English version](#English)
 
 ***Das Feministische Comic-Netzwerk freut sich, das zweite Zine anzukündigen!*** 
 Unsere Körper werden seit Jahrhunderten überwacht. Normen dessen, was gesellschaftlich akzeptabel und schön ist, verursachen noch immer bei jeder_m Scham, die_der von ihnen abweicht. Betroffen sind meist Frauen, aber auch Männer leiden unter diesen Normen. Die Profiteure sind kapitalistische Konzerne, die ungesunde Standards für Essen, Trinken, Kleidung und unsere Haut propagieren und kommunizieren. Es ist an der Zeit, dass wir uns davon lösen und eine selbstliebende Beziehung zu unseren Körpern aufbauen.
@@ -48,10 +48,11 @@ Wenn ihr eine Geschichte zu erzählen habt, aber kein_e Zeichner_in seid, oder w
 
 Sendet eure Vorschläge bis zum 21. Februar an feministische.comics@gmail.com mit dem Wort SUBMISSION in der Betreffzeile. Bitte fügt so detailliert wie möglich eine Story-Zusammenfassung, eine vorgeschlagene Seitenzahl und Links zu Beispielen früherer Comics und/oder Schriften bei, wenn ihr das habt. Wenn dies eure erste Arbeit ist, dann ist das absolut in Ordnung und wir heißen Neuankömmlinge herzlich willkommen! <3
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------
+<a name="English"></a>
 
 **The Feminist Comic Network is happy to announce its second zine!** 
+
 Our bodies have been policed for centuries. Norms of what is socially acceptable and considered beautiful still shame everyone that deviates from them. The targets are mostly women, but men also suffer from these norms. The profiteers are capitalist corporations that propagate and communicate unhealthy standards of what to eat, drink, wear and put onto our skin. It's time we stepped away from that and build a self-loving relationship with our bodies.
 
 ***The Body Positivity*** zine will feature stories about how to reconnect to our innate body wisdom so we can have more balanced, joyful self-care, and a relationship with our whole selves that is guided by love, forgiveness, and humor.
