@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-### The Feminist Comic Network is happy to announce its second zine! 
+### Zine Call
+**The Feminist Comic Network is happy to announce its second zine!** 
 Our bodies have been policed for centuries. Norms of what is socially acceptable and considered beautiful still shame everyone that deviates from them. The targets are mostly women, but men also suffer from these norms. The profiteers are capitalist corporations that propagate and communicate unhealthy standards of what to eat, drink, wear and put onto our skin. It's time we stepped away from that and build a self-loving relationship with our bodies.
 
 ***The Body Positivity*** zine will feature stories about how to reconnect to our innate body wisdom so we can have more balanced, joyful self-care, and a relationship with our whole selves that is guided by love, forgiveness, and humor.
