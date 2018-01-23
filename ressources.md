@@ -13,3 +13,7 @@ title: Ressources
 - ["Wie werde ich Comiczeichner*In?" von Christopher Kloiber - Youtube](https://www.youtube.com/embed/WrTj6F-xayE)
 - [From Script to Final with Jim Zub](https://www.goodreads.com/author_blog_posts/14205956-making-comics-progression-script-to-final?utm_medium=email&utm_source=author_blog_post_digest)
 - [Jason Thiebault's Definitive List of Comic Publisher Submission Guidelines](jason-thiebaults-definitive-list-of-comic-publisher-submission-guidelines)
+- [A response to #metoo](https://thenib.com/response-metoo)
+- [An introduction into comics distribution by Lucy Bellwood](https://lucybellwood.com/2017/09/01/distro-for-dummies/)
+- [Wie sieht ein Comic Pitch aus?](http://yellowcomic.com/der-comic-pitch-fuer-yellow-stone/)
+
