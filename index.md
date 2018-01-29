@@ -30,7 +30,7 @@ Pitches für kurze Comics (max. 4 Seiten) oder Illustrationen (1 Seite), die the
 **Thema: "Körperpositivität"
 Einsendeschluss: 21. Februar 2018
 Specs: 300dpi, A5, s/w, bitte lasst einen Rahmen frei, wir können nicht randlos drucken.
-Akzeptierte Einsendungen werden mit ~~3 €~~ 10€ pro Seite vergütet. (Danke an Chris für das finanzielle Upgrade! <3)
+Akzeptierte Einsendungen werden mit ~~3 €~~ 10€ pro Seite vergütet. (Danke an eine_n anonyme_n Spender_in für das finanzielle Upgrade! <3)
 
 Wir sind definitiv auf der Suche nach:
 
@@ -77,7 +77,7 @@ Pitches for short comics (max. 4 pages) or illustrations (1 page) that are thema
 **Topic: "Body Positivity"
 Deadline: February 21st, 2018
 Specs: 300dpi, A5, b/w, please leave a border, we cannot print borderless
-Accepted permissions will be paid ~~3 €~~ 10€ per page. (Thanks to Chris for the financial upgrade! <3)
+Accepted permissions will be paid ~~3 €~~ 10€ per page. (Thanks to an anonymus donor for the financial upgrade! <3)
 
 We are DEFINITELY looking for:
 
