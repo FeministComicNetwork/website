@@ -23,14 +23,14 @@ Diese Geschichten könnten erforschen:
 
 Wir sind der Meinung, dass niemand ohne BEzahlung arbeiten sollte, akzeptierte Einsendungen werden daher vergütet.
 
-**Richtlinien für die Einreichung:
+**Richtlinien für die Einreichung:**
 
 Pitches für kurze Comics (max. 4 Seiten) oder Illustrationen (1 Seite), die thematisch auf das Hauptthema Körperpositivität ausgerichtet sind. Kritische Positionen zur Bewegung und zum Begriff sind ebenfalls willkommen. Das Zine wird in schwarz und weiß/grau gedruckt. 
 
 **Thema: "Körperpositivität"
-Einsendeschluss: 21. Februar 2018
+Einsendeschluss: ~~21. Februar 2018~~ NEU: 25. Februar 2018
 Specs: 300dpi, A5, s/w, bitte lasst einen Rahmen frei, wir können nicht randlos drucken.
-Akzeptierte Einsendungen werden mit ~~3 €~~ 10€ pro Seite vergütet. (Danke an eine_n anonyme_n Spender_in für das finanzielle Upgrade! <3)
+Akzeptierte Einsendungen werden mit ~~3 €~~ 10€ pro Seite vergütet. (Danke an eine_n anonyme_n Spender_in für das finanzielle Upgrade! <3)**
 
 Wir sind definitiv auf der Suche nach:
 
@@ -70,14 +70,14 @@ These stories could explore:
 
 We think that nobody should work for free, so accepted submissions will be paid for.
 
-### Submission Guidelines:
+**Submission Guidelines:**
 
 Pitches for short comics (max. 4 pages) or illustrations (1 page) that are thematically centered on the main topic of body positivity. Critical stances on the movement and the term are also welcome. The zine will be printed in black and white/greyscale. 
 
 **Topic: "Body Positivity"
-Deadline: February 21st, 2018
+Deadline: ~~February 21st, 2018~~ UPDATE: February 25th 2018
 Specs: 300dpi, A5, b/w, please leave a border, we cannot print borderless
-Accepted permissions will be paid ~~3 €~~ 10€ per page. (Thanks to an anonymus donor for the financial upgrade! <3)
+Accepted permissions will be paid ~~3 €~~ 10€ per page. (Thanks to an anonymus donor for the financial upgrade! <3)**
 
 We are DEFINITELY looking for:
 
