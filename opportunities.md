@@ -3,6 +3,9 @@ layout: page
 title: Opportunities
 ---
 
+## Update August 2018
+- [Berlin Comics Grant] (https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php)
+
 ## January 2018
 
 - [Weekly Round up](https://papercatpress.com/2018/01/19/weekly-roundup-january-19-2018/) by PAPER CAT PRESS
