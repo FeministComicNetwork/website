@@ -4,7 +4,7 @@ title: Opportunities
 ---
 
 ## Update August 2018
-- [Berlin Comics Grant] (https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php)
+- [Berlin Comics Grant](https://www.berlin.de/sen/kultur/foerderung/foerderprogramme/literatur/artikel.621413.php)
 
 ## January 2018
 
