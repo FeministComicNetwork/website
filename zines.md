@@ -8,7 +8,9 @@ Here you can find all the zines we as a network put out so far. If you want to b
 **2018**
 Bodies
 4 – 6 €
+! [Image of Bodies Zine] (
 
 **2017**
 Troll Control
 4 – 6 €
+! [Image of Troll Control Zine] (
