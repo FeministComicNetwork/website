@@ -8,7 +8,7 @@ Here you can find all the zines we as a network put out so far. If you want to b
 **2018**
 Bodies
 4 – 6 €
-! [Image of Bodies Zine] (https://FeministComicNetwork/website/gh-pages/public/images/IMG_3863.jpg)
+! [Image of Bodies Zine] (https://FeministComicNetwork/public/images/IMG_3863.jpg)
 
 **2017**
 Troll Control
