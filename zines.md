@@ -13,4 +13,4 @@ Bodies
 **2017**
 Troll Control
 4 – 6 €
-! [Image of Troll Control Zine] (https://raw.githubusercontent.com/FeministComicNetwork/website/gh-pages/public/images/troll%20cover.png)
+! [Image of Troll Control Zine] (http://raw.githubusercontent.com/FeministComicNetwork/website/gh-pages/public/images/troll%20cover.png)
