@@ -3,7 +3,7 @@ layout: page
 title: Zines
 ---
 
-Here you can find all the zines we as a network put out so far. If you want to buy a digital copy (pdf), please email us feministische.comics@gmail.com
+Here you can find all the zines we as a network put out so far. If you want to buy a digital copy (pdf), please email us mailto:feministische.comics@gmail.com
 
 # 2018
 ## Bodies
