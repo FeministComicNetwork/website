@@ -25,7 +25,7 @@ Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt
 
 Die Unterzeichnenden:
 - Lara Keilbart
-- 
+- Jonas Holt
 - 
 
 <a name="english-version">English version:</a>
@@ -50,5 +50,5 @@ Whoever prints such a gloating and hurtful foreword in his yearbook makes himsel
 The undersigned:
 
 - Lara Keilbart
-- 
+- Jonas Holt
 - 
