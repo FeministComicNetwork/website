@@ -5,7 +5,7 @@ title: Solidarity
 
 **Solidarität mit [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)! || Solidarity with [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)!**
 
-[English version]( )
+[English version](#English version)
 
 
 Jährlich gibt der [ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. )](http://www.comic-i.com/aaa-icom/docs/index.html) das “Comic!-Jahrbuch” heraus. Auf vier Seiten in dem Vorwort dieses besagten Jahrbuchs greifen ICOM Vorstand Burkhard Ihme und Mitglied der ICOM Preis-Jury 2018 Stefan Pannor die ehemalige ICOM Jurorin und Comic Aktivistin Eve Jay direkt an.
@@ -28,8 +28,8 @@ Die Unterzeichnenden:
 - 
 - 
 
+<a name="English version">English version:</a>
 
-English version:
 
 Each year the ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. ) publishes the "Comic! Yearbook". In the 2018 edition ICOM board chairman Burkhard Ihme and member of the ICOM Award Jury 2018 Stefan Pannor directly attack the former ICOM juror and comic activist Eve Jay on full four pages in the preface of this yearbook.
 
