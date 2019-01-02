@@ -3,7 +3,7 @@ layout: page
 title: Solidarity
 ---
 
-**Solidarität mit [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)! || Solidarity with [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)!**
+**Solidarität mit [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)!** | **Solidarity with [Eve Jay](https://medium.com/comic-satellit/times-up-zeit-zu-gehen-9ebc87a9cbe1)!**
 
 [English version](#english-version)
 
