@@ -27,7 +27,7 @@ Die Unterzeichnenden:
 - Lara Keilbart
 - Jonas Holt
 - Jessica Holt
-- E\*Phi\
+- E\*Phi
 - Lisa Rau
 -
 
@@ -55,6 +55,6 @@ The undersigned:
 - Lara Keilbart
 - Jonas Holt
 - Jessica Holt
-- E\*Phi\
+- E\*Phi
 - Lisa Rau
 -
