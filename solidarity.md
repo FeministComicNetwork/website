@@ -32,7 +32,8 @@ Die Unterzeichnenden:
 - Karin Frey
 - Kami (Dog)
 - Felix Schittig
--
+- Carolin Reich
+- ...
 
 <a name="english-version">English version:</a>
 
@@ -63,4 +64,5 @@ The undersigned:
 - Karin Frey
 - Kami (Dog)
 - Felix Schittig
--
+- Carolin Reich
+- ...
