@@ -29,6 +29,7 @@ Die Unterzeichnenden:
 - Jessica Holt
 - E\*Phi
 - Lisa Rau
+- Karin Frey
 -
 
 <a name="english-version">English version:</a>
@@ -57,4 +58,5 @@ The undersigned:
 - Jessica Holt
 - E\*Phi
 - Lisa Rau
+- Karin Frey
 -
