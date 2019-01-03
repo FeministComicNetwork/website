@@ -19,7 +19,7 @@ Gleichzeitig stilisieren sich die beiden Männer selbst zu Opfern und jammern ü
 Hier wird eine auflagenstarke Publikation eines Vereins missbraucht, um angeknackste Egos zu trösten und eine einzelne Person zu attackieren! Hier wird vermieden, das eigentliche Thema der Gleichberechtigung ernsthaft und sachlich zu diskutieren, um das es eigentlich gehen sollte.Wir alle möchten einen fairen Umgang in der Comic Szene und können daher einen solchen Machtsmissbrauch nicht tolerieren.
 Der ICOM muss jetzt rasch handeln: Burkhard Ihme ist als Vorsitzender nicht mehr tragbar und muss seinen Posten räumen. Eine öffentliche Entschuldigung an Eve Jay ist überfällig. 
 
-Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt, macht sich selbst obsolet und steht definitiv nicht mehr als Repräsentant für die deutsche Independent Comic Szene. Wir wünschen uns eine Comic Community und einen icom, in denen Fairness, Gleichberechtigung, Selbstreflexion und Offenheit groß geschrieben werden.
+Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt, macht sich selbst obsolet und steht definitiv nicht mehr als Repräsentant für die deutsche Independent Comic Szene. Wir wünschen uns eine Comic Community und einen ICOM, in denen Fairness, Gleichberechtigung, Selbstreflexion und Offenheit groß geschrieben werden.
 
 **Unsere volle und uneingeschränkte Solidarität gehört Eve Jay!**
 
@@ -50,7 +50,7 @@ A high-circulation publication of a club is misused to comfort cracked egos and 
 
 The ICOM must now act quickly: Burkhard Ihme is no longer acceptable as chairman and must resign. A public apology to Eve Jay is overdue.
 
-Whoever prints such a gloating and hurtful foreword in his yearbook makes himself obsolete and is definitely no longer a representative of the German independent comic scene. We wish for a comic community and an icom in which fairness, equality, self-reflection and openness are written in capital letters.
+Whoever prints such a gloating and hurtful foreword in his yearbook makes himself obsolete and is definitely no longer a representative of the German independent comic scene. We wish for a comic community and a ICOM in which fairness, equality, self-reflection and openness are written in capital letters.
 
 **Our full and unlimited solidarity for Eve Jay!**
 
