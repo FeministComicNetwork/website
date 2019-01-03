@@ -31,6 +31,7 @@ Die Unterzeichnenden:
 - Lisa Rau
 - Karin Frey
 - Kami (Dog)
+- Felix Schittig
 -
 
 <a name="english-version">English version:</a>
@@ -61,4 +62,5 @@ The undersigned:
 - Lisa Rau
 - Karin Frey
 - Kami (Dog)
+- Felix Schittig
 -
