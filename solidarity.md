@@ -30,6 +30,7 @@ Die Unterzeichnenden:
 - E\*Phi
 - Lisa Rau
 - Karin Frey
+- Kami (Dog)
 -
 
 <a name="english-version">English version:</a>
@@ -59,4 +60,5 @@ The undersigned:
 - E\*Phi
 - Lisa Rau
 - Karin Frey
+- Kami (Dog)
 -
