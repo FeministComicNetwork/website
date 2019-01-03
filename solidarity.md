@@ -26,7 +26,10 @@ Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt
 Die Unterzeichnenden:
 - Lara Keilbart
 - Jonas Holt
-- 
+- Jessica Holt
+- E\*Phi\
+- Lisa Rau
+-
 
 <a name="english-version">English version:</a>
 
@@ -51,4 +54,7 @@ The undersigned:
 
 - Lara Keilbart
 - Jonas Holt
-- 
+- Jessica Holt
+- E\*Phi\
+- Lisa Rau
+-
