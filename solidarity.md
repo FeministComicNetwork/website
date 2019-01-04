@@ -33,6 +33,7 @@ Die Unterzeichnenden:
 - Kami (Dog)
 - Felix Schittig
 - Carolin Reich
+- Lew Bridcoe
 - ...
 
 <a name="english-version">English version:</a>
@@ -65,4 +66,5 @@ The undersigned:
 - Kami (Dog)
 - Felix Schittig
 - Carolin Reich
+- Lew Bridcoe
 - ...
