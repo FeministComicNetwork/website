@@ -34,6 +34,7 @@ Die Unterzeichnenden:
 - Felix Schittig
 - Carolin Reich
 - Lew Bridcoe
+- Kilian Wilde
 - ...
 
 <a name="english-version">English version:</a>
@@ -67,4 +68,5 @@ The undersigned:
 - Felix Schittig
 - Carolin Reich
 - Lew Bridcoe
+- Kilian Wilde
 - ...
