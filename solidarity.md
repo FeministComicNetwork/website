@@ -40,6 +40,7 @@ Die Unterzeichnenden:
 - Maren Trey
 - Haiko Hörnig
 - Kristina Gehrmann
+- Caro Podeswa 
 - ...
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
@@ -81,6 +82,7 @@ The undersigned:
 - Maren Trey
 - Haiko Hörnig
 - Kristina Gehrmann
+- Caro Podeswa 
 - ...
 
 
