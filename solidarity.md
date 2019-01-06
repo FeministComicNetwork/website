@@ -8,18 +8,18 @@ title: Solidarity
 [English version](#english-version)
 
 
-Jährlich gibt der [ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. )](http://www.comic-i.com/aaa-icom/docs/index.html) das “Comic!-Jahrbuch” heraus. Auf vier Seiten in dem Vorwort dieses besagten Jahrbuchs greifen ICOM Vorstand Burkhard Ihme und Mitglied der ICOM Preis-Jury 2018 Stefan Pannor die ehemalige ICOM Jurorin und Comic Aktivistin Eve Jay direkt an. Dabei sind sich Ihme und Pannor sogar nicht zu schade, einen einzelnen Screenshot einer Facebook Konversation abzudrucken.
+Jährlich gibt der [ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. )](http://www.comic-i.com/aaa-icom/docs/index.html) das “Comic!-Jahrbuch” heraus. Auf vier Seiten in dem Vorwort dieses besagten Jahrbuchs greifen ICOM Vorstand Burkhard Ihme und Mitglied der ICOM-Preis-Jury 2018 Stefan Pannor die ehemalige ICOM-Jurorin und Comic Aktivistin Eve Jay direkt an. Dabei sind sich Ihme und Pannor sogar nicht zu schade, einen einzelnen Screenshot einer Facebook Konversation abzudrucken.
 
 **Das ist untragbar.**
 
-Gleichzeitig stilisieren sich die beiden Männer selbst zu Opfern und schreiben über eine angebliche unfaire und schädliche Behandlung. Jedoch allein, dass konsequent Eve Jays Klarname benutzt wird, anstatt des selbstgewählten Pseudonyms, das sie im Kontext ihres Comic Aktivismus durchgehend verwendet und unter dem sie bekannt ist, wirkt missachtend und übergriffig! Das zeigt deutlich, dass die Urheber des Vorworts selbst nicht vor einer respektlosen Behandlung anderer zurückschrecken. 
+Gleichzeitig stilisieren sich die beiden Männer selbst zu Opfern und schreiben über eine angebliche unfaire und schädliche Behandlung. Jedoch allein, dass konsequent Eve Jays Klarname benutzt wird, anstatt des selbst gewählten Pseudonyms, das sie im Kontext ihres Comic Aktivismus durchgehend verwendet und unter dem sie bekannt ist, wirkt missachtend und übergriffig! Das zeigt deutlich, dass die Urheber des Vorworts selbst nicht vor einer respektlosen Behandlung anderer zurückschrecken. 
 
 **Das ist nicht in Ordnung!**
 
-Hier wird eine auflagenstarke Publikation eines Vereins missbraucht, um angeknackste Egos zu trösten und eine einzelne Person zu attackieren! Hier wird vermieden, das eigentliche Thema der Gleichberechtigung ernsthaft und sachlich zu diskutieren, um das es eigentlich gehen sollte. Wir alle möchten einen fairen Umgang in der Comic Szene und können daher einen solchen Machtsmissbrauch nicht tolerieren.
+Hier wird eine auflagenstarke Publikation eines Vereins missbraucht, um angeknackste Egos zu trösten und eine einzelne Person zu attackieren! Hier wird vermieden, das eigentliche Thema der Gleichberechtigung ernsthaft und sachlich zu diskutieren, um das es eigentlich gehen sollte. Wir alle möchten einen fairen Umgang in der Comic-Szene und können daher einen solchen Machtmissbrauch nicht tolerieren.
 Der ICOM muss jetzt rasch handeln: Burkhard Ihme ist als Vorsitzender nicht mehr tragbar und muss seinen Posten räumen. Eine öffentliche Entschuldigung an Eve Jay ist überfällig. 
 
-Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt, macht sich selbst obsolet und steht definitiv nicht mehr als Repräsentant für die deutsche Independent Comic Szene. Wir wünschen uns eine Comic Community und einen ICOM, in denen Fairness, Gleichberechtigung, Selbstreflexion und Offenheit groß geschrieben werden.
+Wer ein derartig hämisches und verletzendes Vorwort in seinem Jahrbuch abdruckt, macht sich selbst obsolet und steht definitiv nicht mehr als Repräsentant für die deutsche Independent Comic-Szene. Wir wünschen uns eine Comic Community und einen ICOM, in denen Fairness, Gleichberechtigung, Selbstreflexion und Offenheit großgeschrieben werden.
 
 **Unsere volle und uneingeschränkte Solidarität gehört Eve Jay!**
 
