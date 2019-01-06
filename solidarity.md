@@ -42,7 +42,7 @@ Die Unterzeichnenden:
 - Kristina Gehrmann
 - ...
 
-Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jeden, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
+Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
 
 <a name="english-version">English version:</a>
 
@@ -55,7 +55,7 @@ At the same time, the two men act as victims and write about so-called unfair an
 
 **This is not okay!**
 
-A high-circulation publication of a club is misused to comfort cracked egos and attack a single person! They avoide to discuss the actual topic of equal rights seriously and objectively, which our discussions should actually be about. We all want a fair contact in the comic scene and therefore cannot tolerate such an abuse of power!
+A high-circulation publication of a club is misused to comfort cracked egos and attack a single person! They avoid to discuss the actual topic of equal rights seriously and objectively, which our discussions should actually be about. We all want a fair contact in the comic scene and therefore cannot tolerate such an abuse of power!
 
 The ICOM must now act quickly: Burkhard Ihme is no longer acceptable as chairman and must resign. A public apology to Eve Jay is overdue.
 
