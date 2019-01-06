@@ -50,7 +50,7 @@ Each year the ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm
 
 **This is unacceptable.**
 
-At the same time, the two men act as victims and moan about so-called unfair and harmful behaviour. However, the mere fact that Eve Jay's real name is consistently used, which she herself deliberately does not use in the context of her comic activism, is an impertinence! This clearly shows that they themselves are not afraid of disrespectful behaviour of others. 
+At the same time, the two men act as victims and write about so-called unfair and harmful behaviour. However, the mere fact that Eve Jay's real name is consistently used, which she herself deliberately does not use in the context of her comic activism, is an impertinence! This clearly shows that they themselves are not afraid of disrespectful behaviour of others. 
 
 **This is not okay!**
 
