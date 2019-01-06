@@ -39,6 +39,7 @@ Die Unterzeichnenden:
 - Niki Smith
 - Maren Trey
 - Haiko Hörnig
+- Kristina Gehrmann
 - ...
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jeden, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
@@ -79,6 +80,7 @@ The undersigned:
 - Niki Smith
 - Maren Trey
 - Haiko Hörnig
+- Kristina Gehrmann
 - ...
 
 
