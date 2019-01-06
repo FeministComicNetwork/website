@@ -41,6 +41,12 @@ Die Unterzeichnenden:
 - Haiko Hörnig
 - Kristina Gehrmann
 - Caro Podeswa 
+- Moritz Stetter
+- Maurice Alain
+- Irene Bressel
+- Chris Kloiber
+- Thorsten Brochhaus 
+- Anton Trauth 
 - ...
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
@@ -83,6 +89,12 @@ The undersigned:
 - Haiko Hörnig
 - Kristina Gehrmann
 - Caro Podeswa 
+- Moritz Stetter
+- Maurice Alain
+- Irene Bressel
+- Chris Kloiber
+- Thorsten Brochhaus 
+- Anton Trauth 
 - ...
 
 
