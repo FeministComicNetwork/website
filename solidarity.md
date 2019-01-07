@@ -8,7 +8,7 @@ title: Solidarity
 [English version](#english-version)
 
 
-Jährlich gibt der [ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. )](http://www.comic-i.com/aaa-icom/docs/index.html) das “Comic!-Jahrbuch” heraus. Auf vier Seiten in dem Vorwort dieses besagten Jahrbuchs greifen ICOM Vorstand Burkhard Ihme und Mitglied der ICOM-Preis-Jury 2018 Stefan Pannor die ehemalige ICOM-Jurorin und Comic Aktivistin Eve Jay direkt an. Dabei sind sich Ihme und Pannor sogar nicht zu schade, einen einzelnen Screenshot einer Facebook Konversation abzudrucken.
+Jährlich gibt der [ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. )](http://www.comic-i.com/aaa-icom/docs/index.html) das “Comic!-Jahrbuch” heraus. Auf vier Seiten in dem [Vorwort dieses besagten Jahrbuchs](http://www.comic-i.com/Dateien/COMIC!-Jahrbuch_2019_Vorwort.pdf) greifen ICOM Vorstand Burkhard Ihme und Mitglied der ICOM-Preis-Jury 2018 Stefan Pannor die ehemalige ICOM-Jurorin und Comic Aktivistin Eve Jay direkt an. Dabei sind sich Ihme und Pannor sogar nicht zu schade, einen einzelnen Screenshot einer Facebook Konversation abzudrucken.
 
 **Das ist untragbar.**
 
@@ -47,6 +47,19 @@ Die Unterzeichnenden:
 - Chris Kloiber
 - Thorsten Brochhaus 
 - Anton Trauth 
+- Jennifer L. Hi/justonewing 
+- Steffen Liebschner 
+- Norma Neumann
+- Isa Ristow 
+- Ben Urban
+- Gregor Stiebert
+- Henning Mehrtens
+- Stew Wegner 
+- Johannes Lott 
+- Natalie Dombois
+- Alex Hese 
+- Jörg Faßbender
+- Timo Müller-Wegner
 - ...
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
@@ -54,7 +67,7 @@ Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk 
 <a name="english-version">English version:</a>
 
 
-Each year the ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. ) publishes the "Comic! Yearbook". In the 2018 edition ICOM board chairman Burkhard Ihme and member of the ICOM Award Jury 2018 Stefan Pannor directly attack the former ICOM juror and comic activist Eve Jay on full four pages in the preface of this yearbook. And Ihme and Pannor didn't even think it to be beneath themselves to print a single screenshot of a Facebook conversation (supposedly in their favour).
+Each year the ICOM (Interessenverband Comic, Cartoon, Illustration und Trickfilm e.V. ) publishes the "Comic! Yearbook". In the 2018 edition ICOM board chairman Burkhard Ihme and member of the ICOM Award Jury 2018 Stefan Pannor directly attack the former ICOM juror and comic activist Eve Jay on full four pages in the [preface of this yearbook](http://www.comic-i.com/Dateien/COMIC!-Jahrbuch_2019_Vorwort.pdf). And Ihme and Pannor didn't even think it to be beneath themselves to print a single screenshot of a Facebook conversation (supposedly in their favour).
 
 **This is unacceptable.**
 
@@ -95,6 +108,19 @@ The undersigned:
 - Chris Kloiber
 - Thorsten Brochhaus 
 - Anton Trauth 
+- Jennifer L. Hi/justonewing 
+- Steffen Liebschner 
+- Norma Neumann
+- Isa Ristow 
+- Ben Urban
+- Gregor Stiebert
+- Henning Mehrtens
+- Stew Wegner 
+- Johannes Lott 
+- Natalie Dombois
+- Alex Hese 
+- Jörg Faßbender
+- Timo Müller-Wegner
 - ...
 
 
