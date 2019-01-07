@@ -61,6 +61,7 @@ Die Unterzeichnenden:
 - Jörg Faßbender
 - Timo Müller-Wegner
 - Kaja Reinki
+- Kiki der Gecko
 - ...
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
@@ -124,6 +125,7 @@ The undersigned:
 - Timo Müller-Wegner
 - Kaja Reinki
 - Alexander Bugge/Abe Raham
+- Kiki der Gecko
 - ...
 
 
