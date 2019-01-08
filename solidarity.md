@@ -64,7 +64,18 @@ Die Unterzeichnenden:
 - Kiki der Gecko
 - Hannes Radke
 - Elif Siebenpfeiffer
+- Marcel Uwe Hauck
+- Gabriel deVue
+- Arne Schulenberg
+- Anna-Maria Jung
+- Aerozopher 
+- Adrian Vom Baur
+- Lukas R.A. Wilde
+- Maximilian Hillerzeder
+- Mo Kast 
+- Julia Beutling
 - ...
+
 
 Dieser offene Brief ist aus der Comic Community heraus entstanden. Das Netzwerk ist Teil dieser Community und unterstützt die Aktion zudem durch das Hosting dieses Briefes. Die Aktion ist offen für jede\*n, Unterschriften können jederzeit unter feministische.comics@gmail.com eingereicht werden.
 
@@ -130,7 +141,16 @@ The undersigned:
 - Kiki der Gecko
 - Hannes Radke
 - Elif Siebenpfeiffer
+- Marcel Uwe Hauck
+- Gabriel deVue
+- Arne Schulenberg
+- Anna-Maria Jung
+- Aerozopher 
+- Adrian Vom Baur
+- Lukas R.A. Wilde
+- Maximilian Hillerzeder
+- Mo Kast 
+- Julia Beutling
 - ...
-
 
 This open letter was created out of the comic community. The network is part of this community and supports the campaign by hosting this letter. The campaign is open to everyone, signatures can be submitted at any time at feministische.comics@gmail.com .
