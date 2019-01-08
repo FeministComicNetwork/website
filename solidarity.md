@@ -76,6 +76,10 @@ Die Unterzeichnenden:
 - Julia Beutling
 - Katja Klengel
 - Jeff Chi
+- Hannah Brosch
+- Martina Peters
+- Marcel Hauck
+- Dennis Lehmann
 - ...
 
 
@@ -155,6 +159,10 @@ The undersigned:
 - Julia Beutling
 - Katja Klengel
 - Jeff Chi
+- Hannah Brosch
+- Martina Peters
+- Marcel Hauck
+- Dennis Lehmann
 - ...
 
 
