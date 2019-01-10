@@ -80,6 +80,11 @@ Die Unterzeichnenden:
 - Martina Peters
 - Marcel Hauck
 - Dennis Lehmann
+- Robin Vodegel
+- Tim Gaedke
+- Diane Ernzen/yamatoking
+- Ute Recklies
+- Miriam Cavalli
 - ...
 
 
@@ -163,6 +168,11 @@ The undersigned:
 - Martina Peters
 - Marcel Hauck
 - Dennis Lehmann
+- Robin Vodegel
+- Tim Gaedke
+- Diane Ernzen/yamatoking
+- Ute Recklies
+- Miriam Cavalli
 - ...
 
 
