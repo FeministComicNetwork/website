@@ -92,6 +92,7 @@ Die Unterzeichnenden:
 - Oliver Ristau
 - Mykel Lukasiewicz / Mue
 - Daniela Schreiter/Fuchskind
+- Diana Kennedy
 - ...
 
 
@@ -187,6 +188,7 @@ The undersigned:
 - Oliver Ristau
 - Mykel Lukasiewicz / Mue
 - Daniela Schreiter/Fuchskind
+- Diana Kennedy
 - ...
 
 
