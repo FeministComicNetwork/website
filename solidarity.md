@@ -90,6 +90,8 @@ Die Unterzeichnenden:
 - Melanie Schober
 - Verena Maser
 - Oliver Ristau
+- Mykel Lukasiewicz / Mue
+- Daniela Schreiter/Fuchskind
 - ...
 
 
@@ -183,6 +185,8 @@ The undersigned:
 - Melanie Schober
 - Verena Maser
 - Oliver Ristau
+- Mykel Lukasiewicz / Mue
+- Daniela Schreiter/Fuchskind
 - ...
 
 
