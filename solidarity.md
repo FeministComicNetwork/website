@@ -93,6 +93,9 @@ Die Unterzeichnenden:
 - Mykel Lukasiewicz / Mue
 - Daniela Schreiter/Fuchskind
 - Diana Kennedy
+- Laetitia Graffart
+- Ralf Singh
+- Erich Merk
 - ...
 
 
@@ -189,8 +192,10 @@ The undersigned:
 - Mykel Lukasiewicz / Mue
 - Daniela Schreiter/Fuchskind
 - Diana Kennedy
+- Laetitia Graffart
+- Ralf Singh
+- Erich Merk
 - ...
-
 
 
 This open letter was created out of the comic community. The network is part of this community and supports the campaign by hosting this letter. The campaign is open to everyone, signatures can be submitted at any time at feministische.comics@gmail.com .
