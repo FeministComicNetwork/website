@@ -102,6 +102,7 @@ Die Unterzeichnenden:
 - Tobias Funk
 - Sunnay-Ray
 - Giske Großlaub
+- Natalie Veith
 - ...
 
 
@@ -207,6 +208,7 @@ The undersigned:
 - Tobias Funk
 - Sunnay-Ray
 - Giske Großlaub
+- Natalie Veith
 - ...
 
 
