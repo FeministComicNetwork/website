@@ -105,6 +105,7 @@ Die Unterzeichnenden:
 - Natalie Veith
 - Robin-M. Aust
 - Annette Köhn
+- Mike Loos
 - ...
 
 
@@ -213,6 +214,7 @@ The undersigned:
 - Natalie Veith
 - Robin-M. Aust
 - Annette Köhn
+- Mike Loos
 - ...
 
 
