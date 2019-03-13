@@ -106,6 +106,7 @@ Die Unterzeichnenden:
 - Robin-M. Aust
 - Annette Köhn
 - Mike Loos
+- David Koslowski
 - ...
 
 
@@ -215,6 +216,7 @@ The undersigned:
 - Robin-M. Aust
 - Annette Köhn
 - Mike Loos
+- David Koslowski
 - ...
 
 
