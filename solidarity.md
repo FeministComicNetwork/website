@@ -107,6 +107,7 @@ Die Unterzeichnenden:
 - Annette Köhn
 - Mike Loos
 - David Koslowski
+- Christian Hansen
 - ...
 
 
@@ -217,6 +218,7 @@ The undersigned:
 - Annette Köhn
 - Mike Loos
 - David Koslowski
+- Christian Hansen
 - ...
 
 
