@@ -5,7 +5,7 @@ layout: default
 # New Zine Call!
 Hello everyone! The Feminist Comic Network wants to create an anthology zine and we would love to receive your applications! <3
 
-The topic is "gender hope"! 
+The topic is **"gender hope"**! 
 
 There is so much backlash against progressive gender comprehension going on in the world right now, so we thought it's time to put some positivity out. We all definitely need some hope at the moment. GENDER HOPE - We are curious what your creative minds will create with these two words in mind!
 Stories can be fictional or real life experiences. And yes, your story matters, your story deserves to be read. Tell us the story of how you realized your gender, your gender heros and role models, your hopes, your dreams, your thoughts and feelings. 
@@ -30,7 +30,7 @@ feministische.comics@gmail.com
 on Twitter @ComicWitches 
 on instagram @feministcomicnetwork
 
-**Please send your applications until 27.11.22 to feministische.comics@gmail.com (dropbox, wetransfer, drive etc)
+**Please send your applications until 27.11.22 to feministische.comics@gmail.com (dropbox, wetransfer, drive etc)**
 
 # Manifesto
 Wir sind sehr erfreut, dass du uns gefunden hast. Das **Feministische Comic Netzwerk** ist ein Gemeinschaftsprojekt von feministischen Comicschaffenden und Fans aller Gender. Momentan befindet sich die Hauptorganistationsgruppe in Berlin. Wir arbeiten deutschlandweit und international. Unser Ziel ist die Förderung von intersektionellem, zugänglichem, inklusiven und einladendem Feminismus in Comics. Dadurch wollen wir Hierarchien einreißen und Vorurteile kritisch hinterfragen. Das Netzwerk konzentriert sich auf gemeinschaftliches Arbeiten, inspirierendes, professionelles Netzwerken und das Sichtbarmachen von feministischen Comics und ihren MacherInnen.
