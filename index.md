@@ -12,7 +12,7 @@ Stories can be fictional or real life experiences. And yes, your story matters, 
 Gender hope can be seen in the tradition of hope punx, creating futures and hope despite oppressive systems (/cistems) and telling about moments of gender euphoria. A world without gender norms and boundaries is possible, it's within our reach. We can build that world, first with our stories, then in our dreams and finally in the physical world. 
 ## Infos:
 
-- submissions, if accepted, will be paid 20 € per page
+- submissions, if accepted, will be paid 20 € per page (you dont have to send us drafts or sketches, we usually accept all submissions if they aren't discriminatory or against our manifesto)
 
 - please use CMYK and DIN A5 upright format
 
@@ -40,8 +40,8 @@ Wir sind sehr erfreut, dass du uns gefunden hast. Das **Feministische Comic Netz
 ## Contact | Kontakt:
 Kontaktiere uns gerne! | Get in touch!
 
-**Meetup:** Es gibt ein Meetup an wechselnden Orten in Berlin. Schreib' uns gerne eine Mail und wir sagen dir Bescheid, wo es diesen Monat stattfindet.  
-*We have a monthly meetup at different places in Berlin. Contact us via mail and we'll tell you where to meet.*
+**Meetup:** Es gibt ein ungefähr monatliches digitales Meetup auf unserem Discord Server. Schreib' uns gerne eine Mail und wir geben dir gern einen invite Link.  
+*We have a sort of monthly digital meetup on our discord server. Contact us via mail and we'll send you the invite link.*
 
 **Mail:** <feministische.comics@gmail.com>
 
