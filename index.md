@@ -5,11 +5,40 @@ layout: default
 # New Zine Call!
 Hello everyone! The Feminist Comic Network wants to create an anthology zine and we would love to receive your applications! <3
 
-The topic is **"gender hope"**! 
+The topic is **"quiet riot"**! 
 
-There is so much backlash against progressive gender comprehension going on in the world right now, so we thought it's time to put some positivity out. We all definitely need some hope at the moment. GENDER HOPE - We are curious what your creative minds will create with these two words in mind!
-Stories can be fictional or real life experiences. And yes, your story matters, your story deserves to be read. Tell us the story of how you realized your gender, your gender heros and role models, your hopes, your dreams, your thoughts and feelings. 
-Gender hope can be seen in the tradition of hope punx, creating futures and hope despite oppressive systems (/cistems) and telling about moments of gender euphoria. A world without gender norms and boundaries is possible, it's within our reach. We can build that world, first with our stories, then in our dreams and finally in the physical world. 
+There are a lot of awful things happening in the world right now. We stand in solidarity with all those suffering from conflict, displacement, the consequences of climate change, and the most recent rise of fascist tendencies in many countries around the world. 
+
+In spite of this, we are happy and proud that many people are taking to the streets and take a stand for peace, human rights, nature, the future of their homes, and much more.
+
+You can see a lot more huge protest and loud riots in the media, and we celebrate these great acts of activism.
+
+Those protests and riots are easy to notice, but they aren't the only forms of protests that can bring attention to topics and foster change.
+
+feministcomicnetworks Profilbild
+feministcomicnetwork
+✨️ OPEN CALL ✨️
+ 
+Hello everyone,
+
+it's a new year, and the Feminist Comic Network wants to create another anthology zine. We would love to receive your applications! <3
+
+This time, the theme is "quiet riot"!
+
+There are a lot of awful things happening in the world right now. We stand in solidarity with all those suffering from conflict, displacement, the consequences of climate change, and the most recent rise of fascist tendencies in many countries around the world. 
+In spite of this, we are happy and proud that many people are taking to the streets and take a stand for peace, human rights, nature, the future of their homes, and much more.
+You can see a lot more huge protest and loud riots in the media, and we celebrate these great acts of activism.
+Those protests and riots are easy to notice, but they aren't the only forms of protests that can bring attention to topics and foster change. 
+There are also riots that are quiet or slow; protests you need to look twice to see, or think about a little bit before you notice them as a form of activism.
+There are organisations and groups that do big, great and important work and also a lot of individuals who do small things with big impact on justice and their communities.
+
+"Quiet Riot" wants to put your attention to these forms of activism. We want to emphasize the importance of often overlooked acts of protest, the daily work some people put into it and the change they are making.
+
+We are curious what your creative minds will create with these words in mind!
+Stories can be fictional, historical, or real life experience by you or others.
+Your story matters! Your story deserves to be read!
+Tell us a story of a quiet riot you did or saw, a quiet riot you want to do or one you wish to exist in this world. 
+
 ## Infos:
 
 - submissions, if accepted, will be paid 20 € per page (you dont have to send us drafts or sketches, we usually accept all submissions if they aren't discriminatory or against our manifesto)
@@ -30,7 +59,7 @@ feministische.comics@gmail.com
 on Twitter @ComicWitches 
 on instagram @feministcomicnetwork
 
-**Please send your applications until 27.11.22 to feministische.comics@gmail.com (dropbox, wetransfer, drive etc)**
+**Please send your applications until 11.04.24 to feministische.comics@gmail.com (dropbox, wetransfer, drive etc)**
 
 # Manifesto
 Wir sind sehr erfreut, dass du uns gefunden hast. Das **Feministische Comic Netzwerk** ist ein Gemeinschaftsprojekt von feministischen Comicschaffenden und Fans aller Gender. Momentan befindet sich die Hauptorganistationsgruppe in Berlin. Wir arbeiten deutschlandweit und international. Unser Ziel ist die Förderung von intersektionellem, zugänglichem, inklusiven und einladendem Feminismus in Comics. Dadurch wollen wir Hierarchien einreißen und Vorurteile kritisch hinterfragen. Das Netzwerk konzentriert sich auf gemeinschaftliches Arbeiten, inspirierendes, professionelles Netzwerken und das Sichtbarmachen von feministischen Comics und ihren MacherInnen.
