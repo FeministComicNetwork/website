@@ -8,9 +8,11 @@ You can also find them at  Modern Graphics Comic Shop in Berlin <https://modern-
 
 # 2024
 ## Quiet Riot
+![Image of Quiet Riot Zine](https://raw.githubusercontent.com/FeministComicNetwork/website/gh-pages/public/images/quietriot.jpg)
 
 # 2023
 ## Gender Hope 
+![Image of gender hope Zine](https://raw.githubusercontent.com/FeministComicNetwork/website/gh-pages/public/images/genderhopecover.jpg)
 
 # 2018
 ## Bodies
