@@ -4,6 +4,13 @@ title: Zines
 ---
 
 Here you can find all the zines we as a network put out so far. If you want to buy a digital copy (pdf), please email us <feministische.comics@gmail.com>
+You can also find them at  Modern Graphics Comic Shop in Berlin <https://modern-graphics.de/IN-BERLIN/Prenzlauer-Berg/>
+
+# 2024
+## Quiet Riot
+
+# 2023
+## Gender Hope 
 
 # 2018
 ## Bodies
